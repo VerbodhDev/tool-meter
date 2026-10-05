@@ -1,0 +1,6 @@
+{
+  "name": "tool-meter",
+  "version": "0.1.0",
+  "description": "A live bar above the prompt showing which tools Claude used this session",
+  "types": "./types/index.d.ts"
+}
